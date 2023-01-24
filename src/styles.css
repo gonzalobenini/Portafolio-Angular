@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+#appbody{
+    background: linear-gradient(rgb(224,236,248)35%,rgba(130,150,174,.60),rgba(227,221,219));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

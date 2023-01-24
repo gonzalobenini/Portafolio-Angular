@@ -1,0 +1,11 @@
+input.ng-touched.ng-invalid{
+    border-color: red;
+}
+
+.green-icon{
+    color: rgb(22, 160, 202);
+}
+
+#resetbtn{
+    scale:0.2;
+}
